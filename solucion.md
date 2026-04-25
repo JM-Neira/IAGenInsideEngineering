@@ -417,6 +417,8 @@ def main():
 if __name__ == "__main__":
     main()
 
+# link conversacion primer ejercicio 
+https://claude.ai/chat/2b000eed-8fc2-4b3c-9c83-c1c7f2e4a34b
 
 # 
 
